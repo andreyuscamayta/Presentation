@@ -17,5 +17,5 @@ javac *.java
 ```
 Para poder executar precisa do comando:
 ```
-java -cp . Main.java
+java -cp . Main
 ```
