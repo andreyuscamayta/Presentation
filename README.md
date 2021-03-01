@@ -8,7 +8,7 @@ aonde:
 `YYYYYY` seria a cidade aonde vc mora
 
 Por exemplo:
->Ola, tudo bem? Eu sou Omar e moro em Ribeirao Preto.
+>Olá tudo bem? Eu sou Omar Mozo e moro em Ribeirão Preto.
 
 ## Compilar e executar
 Para poder compilar e necessario rodar a seguinte comando:
