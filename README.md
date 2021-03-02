@@ -8,7 +8,7 @@ aonde:
 `YYYYYY` seria a cidade aonde vc mora
 
 Por exemplo:
->Olá tudo bem? Eu sou Omar Mozo e moro em Ribeirão Preto.
+>Ola tudo bem? Eu sou Omar Mozo e moro em Ribeirão Preto.
 
 ## Compilar e executar
 Para poder compilar e necessario rodar a seguinte comando:
@@ -18,4 +18,12 @@ javac *.java
 Para poder executar precisa do comando:
 ```
 java -cp . Main
+```
+
+## Validacao Automatica com Expressoes Regulares
+
+codigo
+
+```
+(Ola tudo bem\? Eu sou ).+( e moro em ).+(\.)
 ```
