@@ -1,4 +1,7 @@
 # Atividade de Configuração da plataforma de Programação
+## Participantes
+* RA XXXXXXXXXXXXXXXX
+
 ## Exemplo de execucao
 O programa deveria printar na saida padrao o texto:
 > Ola, tudo bem? Eu sou `XXXXXX` e moro em `YYYYYYY`.
